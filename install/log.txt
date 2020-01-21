@@ -283,3 +283,71 @@ The following packages were automatically installed and are no longer required:
   ros-indigo-webkit-dependency
 Use 'apt-get autoremove' to remove them.
 0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+ros-kinetic-catkin is already the newest version (0.7.20-1xenial-20191213-232805+0000).
+ros-kinetic-catkin set to manually installed.
+0 upgraded, 0 newly installed, 0 to remove and 2 not upgraded.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+ros-kinetic-rviz-visual-tools is already the newest version (3.6.0-0xenial-20191214-114924+0000).
+0 upgraded, 0 newly installed, 0 to remove and 2 not upgraded.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following additional packages will be installed:
+  ros-kinetic-openni-camera
+The following NEW packages will be installed:
+  ros-kinetic-openni-camera ros-kinetic-openni-launch
+0 upgraded, 2 newly installed, 0 to remove and 2 not upgraded.
+Need to get 213 kB of archives.
+After this operation, 1009 kB of additional disk space will be used.
+Do you want to continue? [Y/n] Get:1 http://packages.ros.org/ros/ubuntu xenial/main amd64 ros-kinetic-openni-camera amd64 1.11.0-0xenial-20191214-085953+0000 [204 kB]
+Get:2 http://packages.ros.org/ros/ubuntu xenial/main amd64 ros-kinetic-openni-launch amd64 1.11.0-0xenial-20191214-112839+0000 [9096 B]
+Fetched 213 kB in 0s (233 kB/s)
+Selecting previously unselected package ros-kinetic-openni-camera.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 359549 files and directories currently installed.)
+Preparing to unpack .../ros-kinetic-openni-camera_1.11.0-0xenial-20191214-085953+0000_amd64.deb ...
+Unpacking ros-kinetic-openni-camera (1.11.0-0xenial-20191214-085953+0000) ...
+Selecting previously unselected package ros-kinetic-openni-launch.
+Preparing to unpack .../ros-kinetic-openni-launch_1.11.0-0xenial-20191214-112839+0000_amd64.deb ...
+Unpacking ros-kinetic-openni-launch (1.11.0-0xenial-20191214-112839+0000) ...
+Setting up ros-kinetic-openni-camera (1.11.0-0xenial-20191214-085953+0000) ...
+Setting up ros-kinetic-openni-launch (1.11.0-0xenial-20191214-112839+0000) ...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following additional packages will be installed:
+  ros-kinetic-freenect-camera ros-kinetic-libfreenect
+The following NEW packages will be installed:
+  ros-kinetic-freenect-camera ros-kinetic-freenect-launch
+  ros-kinetic-libfreenect
+0 upgraded, 3 newly installed, 0 to remove and 2 not upgraded.
+Need to get 247 kB of archives.
+After this operation, 1201 kB of additional disk space will be used.
+Do you want to continue? [Y/n] Get:1 http://packages.ros.org/ros/ubuntu xenial/main amd64 ros-kinetic-libfreenect amd64 0.5.1-0xenial-20191214-001220+0000 [99,1 kB]
+Get:2 http://packages.ros.org/ros/ubuntu xenial/main amd64 ros-kinetic-freenect-camera amd64 0.4.2-0xenial-20191214-085857+0000 [139 kB]
+Get:3 http://packages.ros.org/ros/ubuntu xenial/main amd64 ros-kinetic-freenect-launch amd64 0.4.2-0xenial-20191214-113109+0000 [8726 B]
+Fetched 247 kB in 0s (270 kB/s)
+Selecting previously unselected package ros-kinetic-libfreenect.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 359606 files and directories currently installed.)
+Preparing to unpack .../ros-kinetic-libfreenect_0.5.1-0xenial-20191214-001220+0000_amd64.deb ...
+Unpacking ros-kinetic-libfreenect (0.5.1-0xenial-20191214-001220+0000) ...
+Selecting previously unselected package ros-kinetic-freenect-camera.
+Preparing to unpack .../ros-kinetic-freenect-camera_0.4.2-0xenial-20191214-085857+0000_amd64.deb ...
+Unpacking ros-kinetic-freenect-camera (0.4.2-0xenial-20191214-085857+0000) ...
+Selecting previously unselected package ros-kinetic-freenect-launch.
+Preparing to unpack .../ros-kinetic-freenect-launch_0.4.2-0xenial-20191214-113109+0000_amd64.deb ...
+Unpacking ros-kinetic-freenect-launch (0.4.2-0xenial-20191214-113109+0000) ...
+Processing triggers for libc-bin (2.23-0ubuntu11) ...
+Setting up ros-kinetic-libfreenect (0.5.1-0xenial-20191214-001220+0000) ...
+Setting up ros-kinetic-freenect-camera (0.4.2-0xenial-20191214-085857+0000) ...
+Setting up ros-kinetic-freenect-launch (0.4.2-0xenial-20191214-113109+0000) ...
+Processing triggers for libc-bin (2.23-0ubuntu11) ...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+ros-kinetic-openni2-launch is already the newest version (0.4.2-0xenial-20191214-112832+0000).
+0 upgraded, 0 newly installed, 0 to remove and 2 not upgraded.

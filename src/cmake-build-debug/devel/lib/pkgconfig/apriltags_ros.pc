@@ -1,8 +1,0 @@
-prefix=/home/slifer/slifer/incomplete_unstable.../vision_ws/src/cmake-build-debug/devel
-
-Name: apriltags_ros
-Description: Description of apriltags_ros
-Version: 0.1.2
-Cflags: -I/home/slifer/slifer/incomplete_unstable.../vision_ws/src/cmake-build-debug/devel/include -I/home/slifer/slifer/incomplete_unstable.../vision_ws/src/vision/apriltags_ros/apriltags_ros/include -I/usr/local/include/eigen3
-Libs: -L/home/slifer/slifer/incomplete_unstable.../vision_ws/src/cmake-build-debug/devel/lib -lapriltag_detector
-Requires: apriltags image_transport roscpp sensor_msgs geometry_msgs tf cv_bridge message_runtime nodelet std_msgs

@@ -131,8 +131,8 @@ fi
 # ======================================
 echo -e $COLOR_BLUE"Installing some ros related packages..."$COLOR_RESET
 # for Kinect
-sudo apt-get install ros-indigo-openni-launch
-sudo apt-get install ros-indigo-freenect-launch
+sudo apt-get install ros-$ROS_DISTRO-openni-launch
+sudo apt-get install ros-$ROS_DISTRO-freenect-launch
 
 # for Asus Xtion
-sudo apt-get install ros-indigo-openni2-launch
+sudo apt-get install ros-$ROS_DISTRO-openni2-launch

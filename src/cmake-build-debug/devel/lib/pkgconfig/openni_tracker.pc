@@ -1,8 +1,0 @@
-prefix=/home/slifer/slifer/incomplete_unstable.../vision_ws/src/cmake-build-debug/devel
-
-Name: openni_tracker
-Description: Description of openni_tracker
-Version: 0.2.0
-Cflags: 
-Libs: -L/home/slifer/slifer/incomplete_unstable.../vision_ws/src/cmake-build-debug/devel/lib 
-Requires: 
