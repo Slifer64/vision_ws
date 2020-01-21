@@ -1,0 +1,285 @@
+Reading package lists...
+Building dependency tree...
+Reading state information...
+ros-indigo-catkin is already the newest version.
+The following packages were automatically installed and are no longer required:
+  linux-headers-4.4.0-31 linux-headers-4.4.0-31-generic
+  linux-image-4.4.0-31-generic linux-image-extra-4.4.0-31-generic
+  linux-signed-image-4.4.0-31-generic ros-indigo-actionlib-tutorials
+  ros-indigo-bond-core ros-indigo-bondpy ros-indigo-camera-calibration
+  ros-indigo-collada-parser ros-indigo-collada-urdf ros-indigo-common-msgs
+  ros-indigo-common-tutorials ros-indigo-compressed-depth-image-transport
+  ros-indigo-compressed-image-transport ros-indigo-diagnostic-aggregator
+  ros-indigo-diagnostic-analysis ros-indigo-diagnostic-common-diagnostics
+  ros-indigo-diagnostics ros-indigo-driver-base ros-indigo-executive-smach
+  ros-indigo-filters ros-indigo-gazebo-plugins ros-indigo-gazebo-ros-pkgs
+  ros-indigo-geometry ros-indigo-geometry-tutorials ros-indigo-gl-dependency
+  ros-indigo-image-common ros-indigo-image-pipeline ros-indigo-image-publisher
+  ros-indigo-image-rotate ros-indigo-image-transport-plugins
+  ros-indigo-image-view ros-indigo-interactive-marker-tutorials
+  ros-indigo-laser-assembler ros-indigo-laser-filters
+  ros-indigo-laser-pipeline ros-indigo-librviz-tutorial ros-indigo-mk
+  ros-indigo-nodelet-core ros-indigo-nodelet-tutorial-math
+  ros-indigo-pcl-conversions ros-indigo-pcl-msgs ros-indigo-pcl-ros
+  ros-indigo-perception ros-indigo-perception-pcl
+  ros-indigo-pluginlib-tutorials ros-indigo-pointcloud-to-laserscan
+  ros-indigo-polled-camera ros-indigo-qt-dotgraph ros-indigo-qt-gui
+  ros-indigo-qt-gui-cpp ros-indigo-qt-gui-py-common ros-indigo-qwt-dependency
+  ros-indigo-robot-state-publisher ros-indigo-ros ros-indigo-ros-base
+  ros-indigo-ros-comm ros-indigo-ros-core ros-indigo-ros-tutorials
+  ros-indigo-rosbash ros-indigo-rosboost-cfg ros-indigo-roscpp-core
+  ros-indigo-roscpp-tutorials ros-indigo-roscreate ros-indigo-roslang
+  ros-indigo-roslint ros-indigo-roslisp ros-indigo-rosmake
+  ros-indigo-rospy-tutorials ros-indigo-rqt-action ros-indigo-rqt-bag
+  ros-indigo-rqt-bag-plugins ros-indigo-rqt-common-plugins
+  ros-indigo-rqt-console ros-indigo-rqt-dep ros-indigo-rqt-graph
+  ros-indigo-rqt-gui ros-indigo-rqt-gui-cpp ros-indigo-rqt-gui-py
+  ros-indigo-rqt-image-view ros-indigo-rqt-launch ros-indigo-rqt-logger-level
+  ros-indigo-rqt-moveit ros-indigo-rqt-msg ros-indigo-rqt-nav-view
+  ros-indigo-rqt-plot ros-indigo-rqt-pose-view ros-indigo-rqt-publisher
+  ros-indigo-rqt-py-common ros-indigo-rqt-py-console
+  ros-indigo-rqt-reconfigure ros-indigo-rqt-robot-dashboard
+  ros-indigo-rqt-robot-monitor ros-indigo-rqt-robot-plugins
+  ros-indigo-rqt-robot-steering ros-indigo-rqt-runtime-monitor
+  ros-indigo-rqt-rviz ros-indigo-rqt-service-caller ros-indigo-rqt-shell
+  ros-indigo-rqt-srv ros-indigo-rqt-tf-tree ros-indigo-rqt-top
+  ros-indigo-rqt-topic ros-indigo-rqt-web ros-indigo-rviz-plugin-tutorials
+  ros-indigo-rviz-python-tutorial ros-indigo-self-test ros-indigo-smach
+  ros-indigo-smach-msgs ros-indigo-smach-ros ros-indigo-stage
+  ros-indigo-stage-ros ros-indigo-stereo-image-proc ros-indigo-stereo-msgs
+  ros-indigo-tf2-geometry-msgs ros-indigo-tf2-kdl ros-indigo-tf2-sensor-msgs
+  ros-indigo-theora-image-transport ros-indigo-turtle-actionlib
+  ros-indigo-turtle-tf ros-indigo-turtle-tf2 ros-indigo-turtlesim
+  ros-indigo-vision-opencv ros-indigo-visualization-marker-tutorials
+  ros-indigo-visualization-tutorials ros-indigo-viz
+  ros-indigo-webkit-dependency
+Use 'apt-get autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+ros-indigo-rviz-visual-tools is already the newest version.
+The following packages were automatically installed and are no longer required:
+  linux-headers-4.4.0-31 linux-headers-4.4.0-31-generic
+  linux-image-4.4.0-31-generic linux-image-extra-4.4.0-31-generic
+  linux-signed-image-4.4.0-31-generic ros-indigo-actionlib-tutorials
+  ros-indigo-bond-core ros-indigo-bondpy ros-indigo-camera-calibration
+  ros-indigo-collada-parser ros-indigo-collada-urdf ros-indigo-common-msgs
+  ros-indigo-common-tutorials ros-indigo-compressed-depth-image-transport
+  ros-indigo-compressed-image-transport ros-indigo-diagnostic-aggregator
+  ros-indigo-diagnostic-analysis ros-indigo-diagnostic-common-diagnostics
+  ros-indigo-diagnostics ros-indigo-driver-base ros-indigo-executive-smach
+  ros-indigo-filters ros-indigo-gazebo-plugins ros-indigo-gazebo-ros-pkgs
+  ros-indigo-geometry ros-indigo-geometry-tutorials ros-indigo-gl-dependency
+  ros-indigo-image-common ros-indigo-image-pipeline ros-indigo-image-publisher
+  ros-indigo-image-rotate ros-indigo-image-transport-plugins
+  ros-indigo-image-view ros-indigo-interactive-marker-tutorials
+  ros-indigo-laser-assembler ros-indigo-laser-filters
+  ros-indigo-laser-pipeline ros-indigo-librviz-tutorial ros-indigo-mk
+  ros-indigo-nodelet-core ros-indigo-nodelet-tutorial-math
+  ros-indigo-pcl-conversions ros-indigo-pcl-msgs ros-indigo-pcl-ros
+  ros-indigo-perception ros-indigo-perception-pcl
+  ros-indigo-pluginlib-tutorials ros-indigo-pointcloud-to-laserscan
+  ros-indigo-polled-camera ros-indigo-qt-dotgraph ros-indigo-qt-gui
+  ros-indigo-qt-gui-cpp ros-indigo-qt-gui-py-common ros-indigo-qwt-dependency
+  ros-indigo-robot-state-publisher ros-indigo-ros ros-indigo-ros-base
+  ros-indigo-ros-comm ros-indigo-ros-core ros-indigo-ros-tutorials
+  ros-indigo-rosbash ros-indigo-rosboost-cfg ros-indigo-roscpp-core
+  ros-indigo-roscpp-tutorials ros-indigo-roscreate ros-indigo-roslang
+  ros-indigo-roslint ros-indigo-roslisp ros-indigo-rosmake
+  ros-indigo-rospy-tutorials ros-indigo-rqt-action ros-indigo-rqt-bag
+  ros-indigo-rqt-bag-plugins ros-indigo-rqt-common-plugins
+  ros-indigo-rqt-console ros-indigo-rqt-dep ros-indigo-rqt-graph
+  ros-indigo-rqt-gui ros-indigo-rqt-gui-cpp ros-indigo-rqt-gui-py
+  ros-indigo-rqt-image-view ros-indigo-rqt-launch ros-indigo-rqt-logger-level
+  ros-indigo-rqt-moveit ros-indigo-rqt-msg ros-indigo-rqt-nav-view
+  ros-indigo-rqt-plot ros-indigo-rqt-pose-view ros-indigo-rqt-publisher
+  ros-indigo-rqt-py-common ros-indigo-rqt-py-console
+  ros-indigo-rqt-reconfigure ros-indigo-rqt-robot-dashboard
+  ros-indigo-rqt-robot-monitor ros-indigo-rqt-robot-plugins
+  ros-indigo-rqt-robot-steering ros-indigo-rqt-runtime-monitor
+  ros-indigo-rqt-rviz ros-indigo-rqt-service-caller ros-indigo-rqt-shell
+  ros-indigo-rqt-srv ros-indigo-rqt-tf-tree ros-indigo-rqt-top
+  ros-indigo-rqt-topic ros-indigo-rqt-web ros-indigo-rviz-plugin-tutorials
+  ros-indigo-rviz-python-tutorial ros-indigo-self-test ros-indigo-smach
+  ros-indigo-smach-msgs ros-indigo-smach-ros ros-indigo-stage
+  ros-indigo-stage-ros ros-indigo-stereo-image-proc ros-indigo-stereo-msgs
+  ros-indigo-tf2-geometry-msgs ros-indigo-tf2-kdl ros-indigo-tf2-sensor-msgs
+  ros-indigo-theora-image-transport ros-indigo-turtle-actionlib
+  ros-indigo-turtle-tf ros-indigo-turtle-tf2 ros-indigo-turtlesim
+  ros-indigo-vision-opencv ros-indigo-visualization-marker-tutorials
+  ros-indigo-visualization-tutorials ros-indigo-viz
+  ros-indigo-webkit-dependency
+Use 'apt-get autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+ros-indigo-openni-launch is already the newest version.
+The following packages were automatically installed and are no longer required:
+  linux-headers-4.4.0-31 linux-headers-4.4.0-31-generic
+  linux-image-4.4.0-31-generic linux-image-extra-4.4.0-31-generic
+  linux-signed-image-4.4.0-31-generic ros-indigo-actionlib-tutorials
+  ros-indigo-bond-core ros-indigo-bondpy ros-indigo-camera-calibration
+  ros-indigo-collada-parser ros-indigo-collada-urdf ros-indigo-common-msgs
+  ros-indigo-common-tutorials ros-indigo-compressed-depth-image-transport
+  ros-indigo-compressed-image-transport ros-indigo-diagnostic-aggregator
+  ros-indigo-diagnostic-analysis ros-indigo-diagnostic-common-diagnostics
+  ros-indigo-diagnostics ros-indigo-driver-base ros-indigo-executive-smach
+  ros-indigo-filters ros-indigo-gazebo-plugins ros-indigo-gazebo-ros-pkgs
+  ros-indigo-geometry ros-indigo-geometry-tutorials ros-indigo-gl-dependency
+  ros-indigo-image-common ros-indigo-image-pipeline ros-indigo-image-publisher
+  ros-indigo-image-rotate ros-indigo-image-transport-plugins
+  ros-indigo-image-view ros-indigo-interactive-marker-tutorials
+  ros-indigo-laser-assembler ros-indigo-laser-filters
+  ros-indigo-laser-pipeline ros-indigo-librviz-tutorial ros-indigo-mk
+  ros-indigo-nodelet-core ros-indigo-nodelet-tutorial-math
+  ros-indigo-pcl-conversions ros-indigo-pcl-msgs ros-indigo-pcl-ros
+  ros-indigo-perception ros-indigo-perception-pcl
+  ros-indigo-pluginlib-tutorials ros-indigo-pointcloud-to-laserscan
+  ros-indigo-polled-camera ros-indigo-qt-dotgraph ros-indigo-qt-gui
+  ros-indigo-qt-gui-cpp ros-indigo-qt-gui-py-common ros-indigo-qwt-dependency
+  ros-indigo-robot-state-publisher ros-indigo-ros ros-indigo-ros-base
+  ros-indigo-ros-comm ros-indigo-ros-core ros-indigo-ros-tutorials
+  ros-indigo-rosbash ros-indigo-rosboost-cfg ros-indigo-roscpp-core
+  ros-indigo-roscpp-tutorials ros-indigo-roscreate ros-indigo-roslang
+  ros-indigo-roslint ros-indigo-roslisp ros-indigo-rosmake
+  ros-indigo-rospy-tutorials ros-indigo-rqt-action ros-indigo-rqt-bag
+  ros-indigo-rqt-bag-plugins ros-indigo-rqt-common-plugins
+  ros-indigo-rqt-console ros-indigo-rqt-dep ros-indigo-rqt-graph
+  ros-indigo-rqt-gui ros-indigo-rqt-gui-cpp ros-indigo-rqt-gui-py
+  ros-indigo-rqt-image-view ros-indigo-rqt-launch ros-indigo-rqt-logger-level
+  ros-indigo-rqt-moveit ros-indigo-rqt-msg ros-indigo-rqt-nav-view
+  ros-indigo-rqt-plot ros-indigo-rqt-pose-view ros-indigo-rqt-publisher
+  ros-indigo-rqt-py-common ros-indigo-rqt-py-console
+  ros-indigo-rqt-reconfigure ros-indigo-rqt-robot-dashboard
+  ros-indigo-rqt-robot-monitor ros-indigo-rqt-robot-plugins
+  ros-indigo-rqt-robot-steering ros-indigo-rqt-runtime-monitor
+  ros-indigo-rqt-rviz ros-indigo-rqt-service-caller ros-indigo-rqt-shell
+  ros-indigo-rqt-srv ros-indigo-rqt-tf-tree ros-indigo-rqt-top
+  ros-indigo-rqt-topic ros-indigo-rqt-web ros-indigo-rviz-plugin-tutorials
+  ros-indigo-rviz-python-tutorial ros-indigo-self-test ros-indigo-smach
+  ros-indigo-smach-msgs ros-indigo-smach-ros ros-indigo-stage
+  ros-indigo-stage-ros ros-indigo-stereo-image-proc ros-indigo-stereo-msgs
+  ros-indigo-tf2-geometry-msgs ros-indigo-tf2-kdl ros-indigo-tf2-sensor-msgs
+  ros-indigo-theora-image-transport ros-indigo-turtle-actionlib
+  ros-indigo-turtle-tf ros-indigo-turtle-tf2 ros-indigo-turtlesim
+  ros-indigo-vision-opencv ros-indigo-visualization-marker-tutorials
+  ros-indigo-visualization-tutorials ros-indigo-viz
+  ros-indigo-webkit-dependency
+Use 'apt-get autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+ros-indigo-freenect-launch is already the newest version.
+The following packages were automatically installed and are no longer required:
+  linux-headers-4.4.0-31 linux-headers-4.4.0-31-generic
+  linux-image-4.4.0-31-generic linux-image-extra-4.4.0-31-generic
+  linux-signed-image-4.4.0-31-generic ros-indigo-actionlib-tutorials
+  ros-indigo-bond-core ros-indigo-bondpy ros-indigo-camera-calibration
+  ros-indigo-collada-parser ros-indigo-collada-urdf ros-indigo-common-msgs
+  ros-indigo-common-tutorials ros-indigo-compressed-depth-image-transport
+  ros-indigo-compressed-image-transport ros-indigo-diagnostic-aggregator
+  ros-indigo-diagnostic-analysis ros-indigo-diagnostic-common-diagnostics
+  ros-indigo-diagnostics ros-indigo-driver-base ros-indigo-executive-smach
+  ros-indigo-filters ros-indigo-gazebo-plugins ros-indigo-gazebo-ros-pkgs
+  ros-indigo-geometry ros-indigo-geometry-tutorials ros-indigo-gl-dependency
+  ros-indigo-image-common ros-indigo-image-pipeline ros-indigo-image-publisher
+  ros-indigo-image-rotate ros-indigo-image-transport-plugins
+  ros-indigo-image-view ros-indigo-interactive-marker-tutorials
+  ros-indigo-laser-assembler ros-indigo-laser-filters
+  ros-indigo-laser-pipeline ros-indigo-librviz-tutorial ros-indigo-mk
+  ros-indigo-nodelet-core ros-indigo-nodelet-tutorial-math
+  ros-indigo-pcl-conversions ros-indigo-pcl-msgs ros-indigo-pcl-ros
+  ros-indigo-perception ros-indigo-perception-pcl
+  ros-indigo-pluginlib-tutorials ros-indigo-pointcloud-to-laserscan
+  ros-indigo-polled-camera ros-indigo-qt-dotgraph ros-indigo-qt-gui
+  ros-indigo-qt-gui-cpp ros-indigo-qt-gui-py-common ros-indigo-qwt-dependency
+  ros-indigo-robot-state-publisher ros-indigo-ros ros-indigo-ros-base
+  ros-indigo-ros-comm ros-indigo-ros-core ros-indigo-ros-tutorials
+  ros-indigo-rosbash ros-indigo-rosboost-cfg ros-indigo-roscpp-core
+  ros-indigo-roscpp-tutorials ros-indigo-roscreate ros-indigo-roslang
+  ros-indigo-roslint ros-indigo-roslisp ros-indigo-rosmake
+  ros-indigo-rospy-tutorials ros-indigo-rqt-action ros-indigo-rqt-bag
+  ros-indigo-rqt-bag-plugins ros-indigo-rqt-common-plugins
+  ros-indigo-rqt-console ros-indigo-rqt-dep ros-indigo-rqt-graph
+  ros-indigo-rqt-gui ros-indigo-rqt-gui-cpp ros-indigo-rqt-gui-py
+  ros-indigo-rqt-image-view ros-indigo-rqt-launch ros-indigo-rqt-logger-level
+  ros-indigo-rqt-moveit ros-indigo-rqt-msg ros-indigo-rqt-nav-view
+  ros-indigo-rqt-plot ros-indigo-rqt-pose-view ros-indigo-rqt-publisher
+  ros-indigo-rqt-py-common ros-indigo-rqt-py-console
+  ros-indigo-rqt-reconfigure ros-indigo-rqt-robot-dashboard
+  ros-indigo-rqt-robot-monitor ros-indigo-rqt-robot-plugins
+  ros-indigo-rqt-robot-steering ros-indigo-rqt-runtime-monitor
+  ros-indigo-rqt-rviz ros-indigo-rqt-service-caller ros-indigo-rqt-shell
+  ros-indigo-rqt-srv ros-indigo-rqt-tf-tree ros-indigo-rqt-top
+  ros-indigo-rqt-topic ros-indigo-rqt-web ros-indigo-rviz-plugin-tutorials
+  ros-indigo-rviz-python-tutorial ros-indigo-self-test ros-indigo-smach
+  ros-indigo-smach-msgs ros-indigo-smach-ros ros-indigo-stage
+  ros-indigo-stage-ros ros-indigo-stereo-image-proc ros-indigo-stereo-msgs
+  ros-indigo-tf2-geometry-msgs ros-indigo-tf2-kdl ros-indigo-tf2-sensor-msgs
+  ros-indigo-theora-image-transport ros-indigo-turtle-actionlib
+  ros-indigo-turtle-tf ros-indigo-turtle-tf2 ros-indigo-turtlesim
+  ros-indigo-vision-opencv ros-indigo-visualization-marker-tutorials
+  ros-indigo-visualization-tutorials ros-indigo-viz
+  ros-indigo-webkit-dependency
+Use 'apt-get autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+ros-indigo-openni2-launch is already the newest version.
+The following packages were automatically installed and are no longer required:
+  linux-headers-4.4.0-31 linux-headers-4.4.0-31-generic
+  linux-image-4.4.0-31-generic linux-image-extra-4.4.0-31-generic
+  linux-signed-image-4.4.0-31-generic ros-indigo-actionlib-tutorials
+  ros-indigo-bond-core ros-indigo-bondpy ros-indigo-camera-calibration
+  ros-indigo-collada-parser ros-indigo-collada-urdf ros-indigo-common-msgs
+  ros-indigo-common-tutorials ros-indigo-compressed-depth-image-transport
+  ros-indigo-compressed-image-transport ros-indigo-diagnostic-aggregator
+  ros-indigo-diagnostic-analysis ros-indigo-diagnostic-common-diagnostics
+  ros-indigo-diagnostics ros-indigo-driver-base ros-indigo-executive-smach
+  ros-indigo-filters ros-indigo-gazebo-plugins ros-indigo-gazebo-ros-pkgs
+  ros-indigo-geometry ros-indigo-geometry-tutorials ros-indigo-gl-dependency
+  ros-indigo-image-common ros-indigo-image-pipeline ros-indigo-image-publisher
+  ros-indigo-image-rotate ros-indigo-image-transport-plugins
+  ros-indigo-image-view ros-indigo-interactive-marker-tutorials
+  ros-indigo-laser-assembler ros-indigo-laser-filters
+  ros-indigo-laser-pipeline ros-indigo-librviz-tutorial ros-indigo-mk
+  ros-indigo-nodelet-core ros-indigo-nodelet-tutorial-math
+  ros-indigo-pcl-conversions ros-indigo-pcl-msgs ros-indigo-pcl-ros
+  ros-indigo-perception ros-indigo-perception-pcl
+  ros-indigo-pluginlib-tutorials ros-indigo-pointcloud-to-laserscan
+  ros-indigo-polled-camera ros-indigo-qt-dotgraph ros-indigo-qt-gui
+  ros-indigo-qt-gui-cpp ros-indigo-qt-gui-py-common ros-indigo-qwt-dependency
+  ros-indigo-robot-state-publisher ros-indigo-ros ros-indigo-ros-base
+  ros-indigo-ros-comm ros-indigo-ros-core ros-indigo-ros-tutorials
+  ros-indigo-rosbash ros-indigo-rosboost-cfg ros-indigo-roscpp-core
+  ros-indigo-roscpp-tutorials ros-indigo-roscreate ros-indigo-roslang
+  ros-indigo-roslint ros-indigo-roslisp ros-indigo-rosmake
+  ros-indigo-rospy-tutorials ros-indigo-rqt-action ros-indigo-rqt-bag
+  ros-indigo-rqt-bag-plugins ros-indigo-rqt-common-plugins
+  ros-indigo-rqt-console ros-indigo-rqt-dep ros-indigo-rqt-graph
+  ros-indigo-rqt-gui ros-indigo-rqt-gui-cpp ros-indigo-rqt-gui-py
+  ros-indigo-rqt-image-view ros-indigo-rqt-launch ros-indigo-rqt-logger-level
+  ros-indigo-rqt-moveit ros-indigo-rqt-msg ros-indigo-rqt-nav-view
+  ros-indigo-rqt-plot ros-indigo-rqt-pose-view ros-indigo-rqt-publisher
+  ros-indigo-rqt-py-common ros-indigo-rqt-py-console
+  ros-indigo-rqt-reconfigure ros-indigo-rqt-robot-dashboard
+  ros-indigo-rqt-robot-monitor ros-indigo-rqt-robot-plugins
+  ros-indigo-rqt-robot-steering ros-indigo-rqt-runtime-monitor
+  ros-indigo-rqt-rviz ros-indigo-rqt-service-caller ros-indigo-rqt-shell
+  ros-indigo-rqt-srv ros-indigo-rqt-tf-tree ros-indigo-rqt-top
+  ros-indigo-rqt-topic ros-indigo-rqt-web ros-indigo-rviz-plugin-tutorials
+  ros-indigo-rviz-python-tutorial ros-indigo-self-test ros-indigo-smach
+  ros-indigo-smach-msgs ros-indigo-smach-ros ros-indigo-stage
+  ros-indigo-stage-ros ros-indigo-stereo-image-proc ros-indigo-stereo-msgs
+  ros-indigo-tf2-geometry-msgs ros-indigo-tf2-kdl ros-indigo-tf2-sensor-msgs
+  ros-indigo-theora-image-transport ros-indigo-turtle-actionlib
+  ros-indigo-turtle-tf ros-indigo-turtle-tf2 ros-indigo-turtlesim
+  ros-indigo-vision-opencv ros-indigo-visualization-marker-tutorials
+  ros-indigo-visualization-tutorials ros-indigo-viz
+  ros-indigo-webkit-dependency
+Use 'apt-get autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.

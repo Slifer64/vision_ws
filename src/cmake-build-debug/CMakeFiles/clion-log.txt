@@ -1,0 +1,60 @@
+/home/slifer/clion-2018.3.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/slifer/slifer/incomplete_unstable.../vision_ws/src
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Using CATKIN_DEVEL_PREFIX: /home/slifer/slifer/incomplete_unstable.../vision_ws/src/cmake-build-debug/devel
+-- Using CMAKE_PREFIX_PATH: /home/slifer/slifer/incomplete_unstable.../vision_ws/devel;/opt/ros/indigo
+-- This workspace overlays: /home/slifer/slifer/incomplete_unstable.../vision_ws/devel;/opt/ros/indigo
+-- Using PYTHON_EXECUTABLE: /usr/bin/python
+-- Using Debian Python package layout
+-- Using empy: /usr/bin/empy
+-- Using CATKIN_ENABLE_TESTING: ON
+-- Call enable_testing()
+-- Using CATKIN_TEST_RESULTS_DIR: /home/slifer/slifer/incomplete_unstable.../vision_ws/src/cmake-build-debug/test_results
+-- Found gtest sources under '/usr/src/gtest': gtests will be built
+-- Using Python nosetests: /usr/bin/nosetests-2.7
+-- catkin 0.6.19
+-- BUILD_SHARED_LIBS is on
+-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-- ~~  traversing 4 packages in topological order:
+-- ~~  - apriltags
+-- ~~  - kinect_description
+-- ~~  - apriltags_ros
+-- ~~  - openni_tracker
+-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-- +++ processing catkin package: 'apriltags'
+-- ==> add_subdirectory(vision/apriltags_ros/apriltags)
+-- Eigen found (include: /usr/local/include/eigen3)
+-- +++ processing catkin package: 'kinect_description'
+-- ==> add_subdirectory(descriptions/sensor_descriptions/kinect_description)
+-- Using these message generators: gencpp;genlisp;genpy
+-- +++ processing catkin package: 'apriltags_ros'
+-- ==> add_subdirectory(vision/apriltags_ros/apriltags_ros)
+-- Using these message generators: gencpp;genlisp;genpy
+-- Eigen found (include: /usr/local/include/eigen3)
+-- apriltags_ros: 2 messages, 0 services
+-- +++ processing catkin package: 'openni_tracker'
+-- ==> add_subdirectory(vision/openni/openni_tracker)
+-- Using these message generators: gencpp;genlisp;genpy
+-- Configuring done
+CMake Warning (dev) at vision/openni/openni_tracker/CMakeLists.txt:25 (add_dependencies):
+  Policy CMP0046 is not set: Error on non-existent dependency in
+  add_dependencies.  Run "cmake --help-policy CMP0046" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  The dependency target "geometry_msgs_gencpp" of target "openni_tracker"
+  does not exist.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Generating done
+-- Build files have been written to: /home/slifer/slifer/incomplete_unstable.../vision_ws/src/cmake-build-debug

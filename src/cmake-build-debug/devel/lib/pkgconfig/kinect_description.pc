@@ -1,0 +1,8 @@
+prefix=/home/slifer/slifer/incomplete_unstable.../vision_ws/src/cmake-build-debug/devel
+
+Name: kinect_description
+Description: Description of kinect_description
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/slifer/slifer/incomplete_unstable.../vision_ws/src/cmake-build-debug/devel/lib 
+Requires: 
