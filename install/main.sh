@@ -14,7 +14,7 @@ COLOR_RESET="\033[0m"
 cd $INSTALL_SCRIPTS_DIR
 AS64_ERROR=0
 
-declare -a arr=("ros_deps" "Kinect_OpenNI_PrimeSense")
+declare -a arr=("ros_deps") #"Kinect_OpenNI_PrimeSense")
 
 echo -e $COLOR_BLUE"Installing as64_ws..."$COLOR_RESET
 
